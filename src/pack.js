@@ -1,7 +1,7 @@
 const pack = (prefix) => {
     return `*PACKS:*
     
-*DARK DOMIMA 🐊🚩*
+*JORDAN DOMIMA 🐊🚩*
 
 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 
 
