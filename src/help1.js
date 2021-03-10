@@ -3,7 +3,7 @@ const help1 = (prefix) => {
 ┃MENU EM ATUALIZAÇÃO ⚠️
 ┣QUALQUER COISA
 ┣CHAME O DONO
-┣wa.me/+5522996215481`
+┣wa.me/+559183423570`
 }
 exports.help1 = help1
 
